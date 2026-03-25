@@ -7,3 +7,13 @@ She _is_ my friend.
 They _are_ at school.
 I _was_ tired yesterday.
 We _wiil be_ ready tomorrow.
+
+Transforme em negativa (usando contrações):
+She isn`t ready.
+They weren`t late.
+He won`t be here.
+Transforme em pergunta:
+
+She is happy = Is she happy?
+They were at home. = Were they at home?
+He will be ready. = Will he be ready?
